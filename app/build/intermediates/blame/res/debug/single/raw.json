@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\raw\\match.mp3",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\raw\\match.mp3"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\raw\\play.mp3",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\raw\\play.mp3"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\raw\\buttons.mp3",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\raw\\buttons.mp3"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\raw\\right_crowd.mp3",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\raw\\right_crowd.mp3"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wrong_crowd.mp3",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\raw\\wrong_crowd.mp3"
+    }
+]

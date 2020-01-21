@@ -1,0 +1,96 @@
+1- How to change app name?
+
+In res/values/strings.xml
+Change the value in this Line :
+
+<string name="app_name">Brainy Math</string>
+
+======================================================================================================================
+
+2- How to change main font?
+
+In res/values/strings.xml
+Change the value in this line with the name of font file :
+
+<string name="main_font">HOBOSTD.OTF</string>
+
+Then replace font file in assets/fonts with your font file.
+
+======================================================================================================================
+
+3- How to change admob banner unit id?
+
+In res/values/strings.xml
+Change the value in this Line :
+
+<string name="adBannerUnitId">ca-app-pub-3940256099942544/6300978111</string>
+
+======================================================================================================================
+
+5- How to change admob interstitial unit id?
+
+In res/values/strings.xml
+Change the value in this Line :
+
+<string name="adInterstitialUnitId">ca-app-pub-3940256099942544/1033173712</string>
+
+======================================================================================================================
+
+6- How to change leaderboard app id?
+
+In res/values/games-ids.xml
+Change the value in this Line :
+
+<string name="app_id">1111112</string>
+
+======================================================================================================================
+
+7- How to change leaderboard score id?
+
+In res/values/games-ids.xml
+Change the value in this Line :
+
+<string name="leaderboard_high_score">1255845</string>
+
+======================================================================================================================
+
+8- How to change using number to show rate dialog?
+
+In res/values/strings.xml
+Change the value in this Line :
+
+<string name="rateAfterUsingNum">6</string>
+
+======================================================================================================================
+
+9- How to change using number to show interstitial ad?
+
+In res/values/strings.xml
+Change the value in this Line :
+
+<string name="showAdAfterUsingNum">4</string>
+
+======================================================================================================================
+
+10- How to change seconds of equations levels depending on its difficulty?
+
+In res/values/strings.xml
+Change the value in these Lines depending on equation difficulty :
+
+    <!--Seconds for equations-->
+
+    <!--if (eqNum <= 10)-->
+    <string name="secs4">4</string>
+
+    <!--After equation number 10-->
+    <!--if (x < 10 && y < 10)-->
+    <string name="secs3">3</string>
+
+    <!--if ((x >= 10 && x < 100) && (y >= 10 && y < 100))-->
+    <string name="secs6">6</string>
+
+    <!--if (((x >= 10 && x < 100) && y >= 100) || ((y >= 10 && y < 100) && x >= 100))-->
+    <string name="secs8">8</string>
+
+    <!--if (x >= 100 && y >= 100)-->
+    <string name="secs10">10</string>

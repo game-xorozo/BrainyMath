@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_help_msg_bg.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\game_help_msg_bg.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_background.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\match2_off.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\match2_off.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_exit_main.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_exit_main.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\levels_background.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\levels_background.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_back_levels.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_back_levels.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_retry_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_retry_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_click_mode_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_click_mode_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coins.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\coins.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_reset_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_reset_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_sound_off_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_sound_off_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_share_main.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_share_main.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_background.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\game_background.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_purple_dlg_dismiss_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_purple_dlg_dismiss_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_reset.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_reset.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_levels_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_levels_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_item_off.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\grid_item_off.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_update.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_update.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_instructions_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_instructions_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_instructions.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_instructions.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dlg_yes.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_dlg_yes.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_back_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_back_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_rate_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_rate_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_exit.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_exit.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instructions_img.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\instructions_img.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_item_on_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\grid_item_on_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_drag_mode.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_drag_mode.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_play_main.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_play_main.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_red_dlg_dismiss_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_red_dlg_dismiss_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_next_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_next_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_solution.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_solution.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_twitter_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_twitter_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_rate.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_rate.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_exit_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_exit_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_sound_off.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_sound_off.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_reset_levels.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_reset_levels.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_equation_bg2.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\game_equation_bg2.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_play_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_play_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_rate_main.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_rate_main.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_no.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_no.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_facebook.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_facebook.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_medium.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\app_icon_medium.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_update_levels.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_update_levels.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_facebook_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_facebook_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_grid_item_levels.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_grid_item_levels.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_levels.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_levels.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sound_on_main.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_sound_on_main.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_share_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_share_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_restart_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_restart_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_info_bg.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\game_info_bg.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_yes_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_yes_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_no_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_no_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_item_on.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\grid_item_on.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\match2_on.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\match2_on.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_sound_on.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_sound_on.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_retry.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_retry.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_back.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_back.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_btn_selector.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\twitter_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_next.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_next.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_update_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_update_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_levels_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_levels_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stars.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\stars.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_share.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_share.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\match_on.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\match_on.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\match_off.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\match_off.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_btn_selector.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\facebook_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\purple_dlg_bg.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\purple_dlg_bg.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_drag_mode_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_drag_mode_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_facebook_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_facebook_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_purple_dlg_dismiss.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_purple_dlg_dismiss.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_levels.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_levels.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_play.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_play.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_levels_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_levels_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dlg_levels.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_dlg_levels.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_title.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\main_title.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_restart.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_restart.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dlg_next.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_dlg_next.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_dlg_yes.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_dlg_yes.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_drag_mode_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_drag_mode_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_sound_on_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_sound_on_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_purple_dlg_dismiss.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_purple_dlg_dismiss.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dlg_no.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_dlg_no.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\levels_title.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\levels_title.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_solution_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_solution_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_instructions_levels.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_instructions_levels.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_twitter.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_twitter.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_solution_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_solution_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_sml.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\app_icon_sml.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_red_dlg_dismiss.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_red_dlg_dismiss.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_click_mode.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_click_mode.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_dlg_bg.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\red_dlg_bg.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_help_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_help_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_restart_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_restart_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dlg_retry.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_dlg_retry.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_equation_bg.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\game_equation_bg.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\match_clicked.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\match_clicked.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_twitter_pressed.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\b_twitter_pressed.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_red_dlg_dismiss.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_red_dlg_dismiss.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_click_mode_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_click_mode_game.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\match2_clicked.png",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\match2_clicked.png"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sound_off_main.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\drawable\\button_sound_off_main.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    }
+]

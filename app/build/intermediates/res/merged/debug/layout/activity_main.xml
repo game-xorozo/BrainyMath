@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_background"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/title"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/main_title" />
+
+    <ImageButton
+        android:id="@+id/play"
+        android:layout_width="185dp"
+        android:layout_height="192dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_play_main" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/play"
+        android:layout_centerHorizontal="true" >
+
+        <ImageButton
+            android:id="@+id/exit"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/button_exit_main" />
+
+        <ImageButton
+            android:id="@+id/sound"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_sound_on_main" />
+
+        <ImageButton
+            android:id="@+id/share"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_share_main" />
+
+        <ImageButton
+            android:id="@+id/rate"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/button_rate_main" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\red_dialog.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\red_dialog.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_levels.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\activity_levels.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\correct_dialog.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\correct_dialog.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\purple_dialog.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\purple_dialog.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\instructions_dialog.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\instructions_dialog.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\level_row_grid.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\level_row_grid.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_main.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_game.xml",
+        "source": "D:\\adt-bundle-windows-x86-20130729\\AndroidStudioProjects\\MatchesPuzzle\\app\\src\\main\\res\\layout-large\\activity_game.xml"
+    }
+]

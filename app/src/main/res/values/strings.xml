@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brainy Math</string>
+    <string name="main_font">HOBOSTD.OTF</string>
+    <string name="adBannerUnitId">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="adInterstitialUnitId">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rateDlg">Please rate our app on google play!</string>
+    <string name="rateAfterUsingNum">6</string>
+    <string name="showAdAfterUsingNum">4</string>
+
+    <!--Seconds for equations-->
+    <!--if (eqNum <= 10)-->
+    <string name="secs4">4</string>
+
+    <!--After equation number 10-->
+    <!--if (x < 10 && y < 10)-->
+    <string name="secs3">3</string>
+    <!--if ((x >= 10 && x < 100) && (y >= 10 && y < 100))-->
+    <string name="secs6">6</string>
+    <!--if (((x >= 10 && x < 100) && y >= 100) || ((y >= 10 && y < 100) && x >= 100))-->
+    <string name="secs8">8</string>
+    <!--if (x >= 100 && y >= 100)-->
+    <string name="secs10">10</string>
+</resources>

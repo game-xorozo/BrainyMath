@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/levels_background"
+    android:gravity="center" >
+
+    <ImageButton
+        android:id="@+id/back"
+        android:layout_width="50dp"
+        android:layout_height="51dp"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="5dip"
+        android:background="@drawable/button_back_levels" />
+
+    <ImageButton
+        android:id="@+id/reset"
+        android:layout_width="50dp"
+        android:layout_height="51dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dip"
+        android:background="@drawable/button_reset_levels" />
+
+    <ImageButton
+        android:id="@+id/update"
+        android:layout_width="50dp"
+        android:layout_height="51dp"
+        android:layout_margin="5dip"
+        android:layout_toLeftOf="@+id/reset"
+        android:background="@drawable/button_update_levels" />
+
+    <ImageButton
+        android:id="@+id/instructions"
+        android:layout_width="50dp"
+        android:layout_height="51dp"
+        android:layout_margin="5dip"
+        android:layout_toLeftOf="@+id/update"
+        android:background="@drawable/button_instructions_levels" />
+
+    <ImageView
+        android:id="@+id/title"
+        android:layout_width="270dp"
+        android:layout_height="98dp"
+        android:layout_below="@+id/back"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/levels_title" />
+
+    <GridView
+        android:id="@+id/levelsGrid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/adView"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:columnWidth="90dp"
+        android:fadingEdgeLength="50dp"
+        android:gravity="center"
+        android:horizontalSpacing="-1dp"
+        android:listSelector="#00000000"
+        android:numColumns="5"
+        android:requiresFadingEdge="vertical"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="30dp" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/adBannerUnitId" />
+
+</RelativeLayout>

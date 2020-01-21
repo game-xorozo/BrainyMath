@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" >
+
+    <RelativeLayout
+        android:id="@+id/purpleDlg"
+        android:layout_width="570dp"
+        android:layout_height="307dp"
+        android:layout_gravity="center"
+        android:background="@drawable/purple_dlg_bg"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="verdana"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFF"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/confirmDlg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/purpleDlg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-35dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/noBtn"
+            android:layout_width="100dp"
+            android:layout_height="103dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/button_dlg_no" />
+
+        <Button
+            android:id="@+id/yesBtn"
+            android:layout_width="100dp"
+            android:layout_height="103dp"
+            android:background="@drawable/button_dlg_yes" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/alertDlg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/purpleDlg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-17dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/dismissBtn"
+            android:layout_width="140dp"
+            android:layout_height="66dp"
+            android:background="@drawable/button_purple_dlg_dismiss" />
+    </LinearLayout>
+
+</RelativeLayout>

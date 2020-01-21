@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" >
+
+    <ImageView
+        android:id="@+id/instructionsImg"
+        android:layout_width="280dp"
+        android:layout_height="431dp"
+        android:layout_gravity="center"
+        android:background="@drawable/instructions_img" />
+
+    <Button
+        android:id="@+id/dismissBtn"
+        android:layout_width="90dp"
+        android:layout_height="43dp"
+        android:layout_below="@+id/instructionsImg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-22dp"
+        android:background="@drawable/button_purple_dlg_dismiss" />
+
+</RelativeLayout>

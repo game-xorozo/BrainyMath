@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/levels_background" >
+
+    <LinearLayout
+        android:id="@+id/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/levels"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_levels_game" />
+
+        <ImageButton
+            android:id="@+id/solution"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_solution_game" />
+
+        <ImageButton
+            android:id="@+id/restart"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_restart_game" />
+        
+        <ImageButton
+            android:id="@+id/mode"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_drag_mode_game" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/coins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dip"
+        android:gravity="center"
+        android:layout_alignParentLeft="true"
+        android:orientation="horizontal"
+        android:padding="2dip" >
+
+        <ImageView
+            android:id="@+id/coinsImg"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/coins" />
+
+        <TextView
+            android:id="@+id/coinsX"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:text="x "
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/coinsValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="50"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/game_equation"
+        android:layout_width="320dp"
+        android:layout_height="375dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/game_equation_bg" >
+
+        <RelativeLayout
+            android:id="@+id/infoLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/levelInfo"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/game_info_bg"
+                android:gravity="center"
+                android:text="Level : 1"
+                android:textAppearance="?android:attr/textAppearanceSmall" />            
+
+            <TextView
+                android:id="@+id/movesInfo"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="40dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/game_info_bg"
+                android:gravity="center"
+                android:text="0 / 1"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/game_equation_initial"
+            android:layout_width="305dp"
+            android:layout_height="330dp"
+            android:layout_below="@+id/infoLayout"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/game_equation_bg2" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/drag_layer"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/helpMsg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/game_help_msg_bg"
+                    android:fontFamily="verdana"
+                    android:padding="8dp"
+                    android:text="Move 1 match to fix the equation"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:typeface="sans" />
+            </LinearLayout>
+
+            <com.nileworx.matchespuzzle.DragLayer
+                xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher"
+                android:id="@+id/drag_layer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <RelativeLayout
+                        android:id="@+id/xValGroup"
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp" >
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/xVal0"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/xVal1"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentLeft="true"
+                            android:layout_below="@+id/xVal0"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/xVal2"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@+id/xVal0"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/xVal3"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_below="@+id/xVal1"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="-10dp"
+                            android:layout_marginTop="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/xVal4"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentLeft="true"
+                            android:layout_below="@+id/xVal3"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/xVal5"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@+id/xVal3"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/xVal6"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_below="@+id/xVal5"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/operatorGroup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="5dp" >
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/operator0"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/operator1"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_centerVertical="true"
+                            android:src="@drawable/match_on" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/yValGroup"
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp" >
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/yVal0"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/yVal1"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentLeft="true"
+                            android:layout_below="@+id/yVal0"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/yVal2"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@+id/yVal0"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/yVal3"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_below="@+id/yVal1"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="-10dp"
+                            android:layout_marginTop="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/yVal4"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentLeft="true"
+                            android:layout_below="@+id/yVal3"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/yVal5"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@+id/yVal3"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/yVal6"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_below="@+id/yVal5"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/equalGroup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="5dp" >
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/equal0"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"                          
+                            android:src="@drawable/match_on" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/equal1"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_below="@+id/equal0"
+                            android:src="@drawable/match_on" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/rValGroup"
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content" >
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/rVal0"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/rVal1"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentLeft="true"
+                            android:layout_below="@+id/rVal0"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/rVal2"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@+id/rVal0"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/rVal3"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_below="@+id/rVal1"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="-10dp"
+                            android:layout_marginTop="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/rVal4"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentLeft="true"
+                            android:layout_below="@+id/rVal3"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/rVal5"
+                            android:layout_width="@dimen/n_match2_width"
+                            android:layout_height="@dimen/n_match2_height"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@+id/rVal3"
+                            android:src="@drawable/match2_off"
+                            android:tag="match2_off" />
+
+                        <com.nileworx.matchespuzzle.DropSpot
+                            android:id="@+id/rVal6"
+                            android:layout_width="@dimen/n_match_width"
+                            android:layout_height="@dimen/n_match_height"
+                            android:layout_below="@+id/rVal5"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="-10dp"
+                            android:src="@drawable/match_off"
+                            android:tag="match_off" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </com.nileworx.matchespuzzle.DragLayer>
+            <LinearLayout
+                android:id="@+id/helpBtns"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="2dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/facebook"
+                    android:layout_width="70dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/button_facebook_game"
+                    android:text="facebook"
+                    android:textColor="#FFFFFF"
+                    android:textSize="12sp" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="20dp"
+                    android:background="#FFFFFF" />
+
+                <Button
+                    android:id="@+id/twitter"
+                    android:layout_width="70dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/button_twitter_game"
+                    android:text="twitter"
+                    android:textColor="#FFFFFF"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/adBannerUnitId" />
+
+</RelativeLayout>

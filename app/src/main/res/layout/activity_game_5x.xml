@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_background"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:id="@+id/playScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dip"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="5dip">
+
+            <TextView
+                android:id="@+id/scoreValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10"
+                android:textColor="#fff"
+                android:textSize="50sp" />
+        </LinearLayout>
+        `
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:layout_below="@+id/score"
+            android:orientation="horizontal"
+            android:padding="5dip">
+
+            <ProgressBar
+                android:id="@+id/progressbar"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_width="380dp"
+                android:layout_height="6dp"
+                android:layout_margin="8dp"
+                android:progress="100" />
+
+            <TextView
+                android:id="@+id/secondsValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8"
+                android:textColor="#ffff00"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+
+
+        <RelativeLayout
+            android:id="@+id/game_equation_initial"
+            android:layout_width="460dp"
+            android:layout_height="276dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/game_equation_bg2">
+
+            <LinearLayout
+                android:id="@+id/equation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/xNum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:text="106"
+
+                    android:textSize="75sp" />
+
+                <TextView
+                    android:id="@+id/operator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:text="+"
+                    android:textSize="75sp" />
+
+                <TextView
+                    android:id="@+id/yNum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:text="?"
+
+                    android:textSize="75sp" />
+
+                <TextView
+                    android:id="@+id/equalSign"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:text="="
+                    android:textSize="75sp" />
+
+                <TextView
+                    android:id="@+id/zNum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:text="127"
+
+                    android:textSize="75sp" />
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/choices"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="10dip">
+
+
+            <TextView
+                android:id="@+id/choice1"
+                android:layout_width="140dp"
+                android:layout_height="156dp"
+                android:layout_gravity="center"
+                android:background="@drawable/button_choice_game"
+                android:gravity="center"
+                android:tag="1"
+                android:text="33"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#FFFFFF"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/choice2"
+                android:layout_width="140dp"
+                android:layout_height="156dp"
+                android:layout_gravity="center"
+                android:background="@drawable/button_choice_game"
+                android:gravity="center"
+                android:tag="2"
+                android:text="7"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#FFFFFF"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/choice3"
+                android:layout_width="140dp"
+                android:layout_height="156dp"
+                android:layout_gravity="center"
+                android:background="@drawable/button_choice_game"
+                android:gravity="center"
+                android:tag="3"
+                android:text="3574"
+                android:padding="20dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#FFFFFF"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <!--</RelativeLayout>-->
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/gameOverScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/playScreen"
+        android:background="#D8000000"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/gameOverText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            android:text="Game Over"
+            android:textSize="70sp" />
+
+        <LinearLayout
+            android:id="@+id/scoreData"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/gameOverBtns"
+            android:layout_below="@+id/gameOverText"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/yourScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Score"
+                android:textColor="#fff200"
+                android:textSize="50sp" />
+
+            <TextView
+                android:id="@+id/yourScoreValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="30dp"
+                android:text="2000"
+                android:textColor="#FFF"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/highScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="High Score"
+                android:textColor="#fff200"
+                android:textSize="50sp" />
+
+            <TextView
+                android:id="@+id/highScoreValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="300"
+                android:textColor="#FFF"
+                android:textSize="40sp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/gameOverBtns"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/adView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="50dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/mainBtn"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:background="@drawable/button_dlg_main" />
+
+            <Button
+                android:id="@+id/playAgainBtn"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginLeft="40dp"
+                android:background="@drawable/button_dlg_playagain" />
+        </LinearLayout>
+
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/adBannerUnitId" />
+    </RelativeLayout>
+
+</RelativeLayout>
+
+
